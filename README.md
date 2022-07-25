@@ -56,9 +56,9 @@ $ npm start
 ## Some creens in app
 
 ![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658769443/kanban/1_civnx0.png 'Optional title')
-![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658769443/kanban/2_quamum.png'Optional title')
-![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658769443/kanban/3_u2ex5l.png'Optional title')
-![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658769443/kanban/4_dgjmkn.png'Optional title')
-![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658769443/kanban/5_t1dzf6.png'Optional title')
+![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658769443/kanban/2_quamum.png 'Optional title')
+![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658769443/kanban/3_u2ex5l.png 'Optional title')
+![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658769443/kanban/4_dgjmkn.png 'Optional title')
+![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658769443/kanban/5_t1dzf6.png 'Optional title')
 
 - ......
